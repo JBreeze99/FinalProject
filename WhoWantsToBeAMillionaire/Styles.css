@@ -4,6 +4,7 @@
     margin: 0;
     padding:0;
     color:salmon;
+    font-size: large;
 
 }
 :root{
@@ -44,7 +45,7 @@ body.wrong{
     text-decoration-color: hotpink;
 }
 .span.right-answer{
-    font-size: 2rem;
+    font-size: 3rem;
     color: bisque;
 }
 .btn-grid{
